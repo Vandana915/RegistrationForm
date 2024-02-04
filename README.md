@@ -10,7 +10,7 @@ This is a simple website that use HTML forms to collect information from people 
 * HTML
 + CSS
 ## Demo
-You can explore the live demo of the Registration [Here](http://127.0.0.1:5500/index.html).
+You can explore the live demo of the Registration-form [Here](http://127.0.0.1:5500/index.html).
 ## What I learned
 
 I train my skills and remember the basics concepts of HTML,CSS👩🏻‍💻
